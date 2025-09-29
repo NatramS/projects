@@ -10,7 +10,7 @@ Click any project name to open the repository (or project folder) that contains 
 - **Cloud** — [Repository / Project Folder](https://github.com/REPO_URL_CLOUD)  
   Architecture: `docs/architecture.png` — Instructions: `README.md` in the repository.
 
-- **Hybrid-Cloud** — [Repository / Project Folder](https://github.com/REPO_URL_HYBRID)  
+- **Hybrid-Cloud** — [Repository / Project Folder](https://github.com/NatramS/docs/blob/31cb14acc5467065f963c7b83be0a18361882d0f/UPDATED_GCP-OCI.pdf)  
   Architecture: `docs/architecture.png` — Instructions: `README.md`.
 
 - **DevOps** — [Repository / Project Folder](https://github.com/REPO_URL_DEVOPS)  
