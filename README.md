@@ -6,7 +6,7 @@ Click any project name to open the repository (or project folder) that contains 
 ---
 
 ## Cloud Projects
-- **Project 1: Cloud Project A** — [Repository / Project Folder](https://github.com/REPO_URL_CLOUD_A)  
+- **Project 1: Cloud Project A** — [Repository / Project Folder](https://github.com/NatramS/docs/blob/b57033276c56b858718a533434c7713b5a2f649b/RedHat%20Ansible%20Automation%20Platform.pdf)  
   Architecture: `docs/architecture.png` — Instructions: `README.md`.
 - **Project 2: Cloud Project B** — [Repository / Project Folder](https://github.com/REPO_URL_CLOUD_B)  
   Architecture: `docs/architecture.png` — Instructions: `README.md`.
