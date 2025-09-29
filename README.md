@@ -26,5 +26,5 @@ Click any project name to open the repository (or project folder) that contains 
 
 ## License & Contact
 If you'd like to reuse or contribute, please open an issue or a PR in the respective repo.  
-Made with care — *Your Name* — [GitHub Profile](https://github.com/your-profile)
+Made with care — *Sharath Natram* — [GitHub Profile](https://github.com/NatramS)
 
